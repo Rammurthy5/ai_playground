@@ -2,6 +2,7 @@ torch >= 2.3.0             # all
 jupyterlab >= 4.0          # all
 transformers               # tokenization
 datasets                   # tokenization
+nltk                       # text summariser
 tiktoken >= 0.5.1          # ch02; ch04; ch05
 matplotlib >= 3.7.1        # ch04; ch06; ch07
 tensorflow >= 2.18.0       # ch05; ch06; ch07
